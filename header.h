@@ -1,5 +1,5 @@
-#ifndef HEADER_H
-#define HEADER_H
+#ifndef HEADER_H_
+#define HEADER_H_
 
 class header{
     public:
